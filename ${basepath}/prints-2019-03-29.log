@@ -1,0 +1,8 @@
+16:08:00.0976 [main] ERROR PackagBeta.Demo - invalid user name
+16:08:15.0065 [main] DEBUG PackagBeta.Demo - clicked button
+16:08:15.0070 [main] INFO  PackagBeta.Demo - user clicked on button 
+16:08:15.0070 [main] DEBUG PackagBeta.Demo - home page is displayed
+16:08:15.0070 [main] ERROR PackagBeta.Demo - invalid user name
+16:09:17.0129 [main] DEBUG PackagBeta.Demo - clicked button
+16:09:17.0133 [main] INFO  PackagBeta.Demo - user clicked on button 
+16:09:17.0133 [main] DEBUG PackagBeta.Demo - home page is displayed
